@@ -1,0 +1,56 @@
+word,English,Português
+jump,jump,saltar
+right,right,direita
+left,left,esquerda
+climb,climb,escalar
+interact,interact,interagir
+hide,hide,esconder
+scratch,scratch,arranhar
+sleep,sleep,dormir
+tutorial_direita,"Control the cat by writing its story. Try typing 'right'.","Controla o gato escrevendo a história dele. Tenta escrever 'direita'."
+menu_language,Language,Idioma
+settings,Settings,Definições
+glossary,glossary,glossário
+up,up,cima
+down,down,baixo
+awake,awake,acorda
+meow,meow,miau
+pause,pause,pausar
+music,Music,"Música"
+sound,Sounds,"Sons"
+about,About,Sobre
+play,Play,Jogar
+quit,Quit,Sair
+back,Back,Voltar
+unlocked_words_phrase,"You can see all your unlocked words by pressing Tab at any moment.","Podes ver todas as palavras desbloqueadas pressionando Tab a qualquer momento."
+resume,Resume,Continuar
+back_to_main_menu,Main Menu,Menu Principal
+paused,Paused,Pausado
+unlock_new_words,"Unlock new words by collecting letters!","Desbloqueia novas palavras coletando letras!"
+sleep_story_phrase,"Look at the time! I’ll tell you a story to help you sleep.","Olha as horas! Vou contar-te uma história para adormeceres."
+confirm_main_menu_short_phrase,"Go back to the main menu? Your progress will be lost.","Voltar ao menu principal? Vais perder o teu progresso."
+yes,Yes,Sim
+no,No,Não
+unlocked_words,"Unlocked words:","Palavras disponíveis:"
+level_one_story,"In November 1147, King Afonso Henriques decided to conquer Óbidos, knowing it was a much stronger stronghold than the others. The attack was planned for the following dawn, with the help of Gonçalo Mendes da Maia, known as The Fighter.","Em Novembro de 1147, o Rei D. Afonso Henriques decidiu conquistar Óbidos, sabendo que esta era uma fortaleza muito mais forte que as outras. O ataque foi planeado para a madrugada seguinte, com a ajuda de Gonçalo Mendes da Maia, O Lidador."
+level_two_story,"During the night, a mysterious young woman sought out the king and revealed a dream that had repeated itself for three nights: a man told her that Óbidos would be delivered to the Christians if the king launched a surprise attack at the front of the castle, while The Fighter, with a few men, would enter through the rear by means of a gate she would open.","Durante a noite, uma jovem misteriosa procurou o rei e revelou um sonho que se repetia há três noites: um homem dizia-lhe que Óbidos seria entregue aos Cristãos se o rei atacasse de surpresa pela frente do castelo, enquanto o Lidador, com alguns homens, entraria pelas traseiras através de uma porta que ela abriria."
+level_three_story_one,"The town was under the watch of an old Moor who lived there with his beautiful daughter. The young woman was at the window when she noticed strange movements in the outskirts of the town.","A vila estava sob a guarda de um velho Mouro que ali vivia com a sua bela filha. A jovem estava à janela quando se apercebeu de movimentos estranhos nos arrabaldes."
+level_three_story_two,"Then the beautiful princess asked her old father: — Father, does the brushwood walk? To which the father replied: — Yes, my daughter, if it is being carried.","Então, a linda princesa perguntou ao seu velho pai: – Pai, o mato anda? Ao que o pai respondeu: – Sim, minha filha, se o levam."
+prologue,"And, indeed, they were the king’s warriors, advancing cautiously towards the castle, camouflaged with branches and brushwood they had cut. Óbidos was conquered exactly as in the mysterious young woman’s dream. She was never seen again, and the gate that allowed the Christians to enter became forever known as the Gate of Treachery.","E, de facto, eram os guerreiros do rei, que avançavam cautelosamente para o castelo, camuflados com o mato que iam cortando. Óbidos foi conquistada tal como no sonho da misteriosa jovem. Ela nunca mais foi vista e a porta que permitiu a entrada dos Cristãos ficou para sempre conhecida como a Porta da Traição."
+ok,ok,ok
+write_ok_to_continue,"Type OK to continue","Escreve OK para continuar"
+credits,"Credits","Créditos"
+project_info,"This game was developed in collaboration with young game jammers as part of the EPIC-WE project.\n\nEPIC-WE is an EU-funded initiative that brings together young creatives, cultural institutions, and game industry professionals to explore and express cultural values with game-making.\n\nThrough a series of game jams, participants designed and developed unique experiences reflecting their perspectives on heritage, society, and the future.","Este jogo foi desenvolvido em colaboração com jovens participantes de game jams no âmbito do projeto EPIC-WE.\n\nO EPIC-WE é uma iniciativa financiada pela UE que reúne jovens criativos, instituições culturais e profissionais da indústria dos videojogos para explorar e expressar valores culturais com a criação de jogos.\n\nAtravés de uma série de game jams, os participantes conceberam e desenvolveram experiências únicas que refletem as suas perspetivas sobre o património, a sociedade e o futuro."
+hub_story,"Once upon a time, there lived a cat in a small village called Óbidos.\nHe made the acquaintance of a typographer, who had many tales to share.\nAnd every night, the kitty fell asleep to the sound of his stories.","Era uma vez um gato que vivia numa pequena vila chamada Óbidos.\nEle fez amizade com um tipógrafo, que tinha muitas histórias para contar.\nE, todas as noites, o gatinho adormecia ao som dos seus contos."
+credits_title,"<b>A cultural game prototype by BATTLESHEEP</b>","<b>Um protótipo de jogo cultural pela BATTLESHEEP"
+credits_roles,"PRODUCER\nASSISTANT PRODUCER\nPROGRAMMER\nARTIST\nSOUND DESIGNER","PRODUTOR\nASSISTENTE DE PRODUÇÃO\nPROGRAMADOR\nARTISTA\nDESIGNER DE SOM"
+credits_inspired,"<b>Inspired by original game concept ''Puss in Books'' by:</b>","<b>Inspirado pelo conceito original do jogo ''Puss in Books'' por:</b>"
+credits_inspired_roles,"PROGRAMMER\nARTIST","PROGRAMADOR\nARTISTA"
+credits_law,"Puss in Books is part of EPIC-WE's deliverables.\nEPIC-WE has received funding from the European Union's Horizon Europe research and innovation program under grant agreement No 10109505. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Commission. Neither the European Union nor the granting authority can be held responsible for them.","Puss in Books faz parte dos entregáveis do EPIC-WE.\nO EPIC-WE recebeu financiamento do programa de investigação e inovação Horizon Europe da União Europeia sob o acordo de subvenção nº 10109505. No entanto, as opiniões expressas são apenas dos autores e não refletem necessariamente as da União Europeia ou da Comissão Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por elas."
+credits_lusofona,"<b>Lusófona University</b>","<b>Universidade Lusófona<b>"
+credits_municipio,"<b>Óbidos Municipality</b>","<b>Município de Óbidos"
+credits_cityhall,"<size=60><b>Óbidos City Hall</b></size>\nFilipe Daniel (Mayor)\nNuno Gaio (Chief of Staff)\nBertina Pinheiro\nBruno Silva\nCarlos Coutinho\nDenilson Andrade\nJoão Pedro Tormenta\nJoaquim Paulo\nJosé Lopes\nNelson Lança\nNuno Santos\nOctávio Pinto\nPatrícia Roque\nPaulo Capinha\nPedro Pereira\nSusana Abrantes\nSuzana Nobre","<size=60><b>Câmara Municipal de Óbidos</b></size>\nFilipe Daniel (Presidente)\nNuno Gaio (Chefe de Gabinete)\nBertina Pinheiro\nBruno Silva\nCarlos Coutinho\nDenilson Andrade\nJoão Pedro Tormenta\nJoaquim Paulo\nJosé Lopes\nNelson Lança\nNuno Santos\nOctávio Pinto\nPatrícia Roque\nPaulo Capinha\nPedro Pereira\nSusana Abrantes\nSuzana Nobre"
+credits_josefaobidos,"<size=60><b>Josefa de Óbidos Cluster of Schools</b></size>\nJosé Santos (Director)\nMiguel Ferreira (Coordinator)\nFilomena Sousa\nGil Ribeiro\nJosé Penha\nMarisa Matias","<size=60><b>Agrupamento de Escolas Josefa de Óbidos</b></size>\nJosé Santos (Diretor)\nMiguel Ferreira (Coordenador)\nFilomena Sousa\nGil Ribeiro\nJosé Penha\nMarisa Matias"
+credits_madewith,"This game was developed with Unity.","Este jogo foi desenvolvido em Unity."
+credits_affiliated,"Puss in Books is not sponsored by or affiliated with Unity Technologies or \nits affiliates. "Unity" and the Unity logo are trademarks \nof Unity Technologies or its affiliates in the U.S. and elsewhere.","O Puss in Books não é patrocinado nem está associado à Unity Technologies ou às\n suas afiliadas. "Unity" e o logótipo da Unity são marcas registadas da \nUnity Technologies ou das suas afiliadas nos EUA e noutros países."
+credits_usage,"Puss in Books's source code is released under the GPLv3 license\nand its original assets are released under the CC BY 4.0 license.\n\nFor additional information, visit:\nhttps://epic-we.au.dk/featured-games/puss-in-books","O código-fonte de Puss in Books é distribuído sob a licença GPLv3\ne os seus recursos originais são distribuídos sob a licença CC BY 4.0.\n\nPara mais informações, visite:\nhttps://epic-we.au.dk/featured-games/puss-in-books"

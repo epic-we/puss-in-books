@@ -1,0 +1,33 @@
+word,Portugues,English,Espanol,Francais
+jump,saltar,jump,saltar,saut
+right,direita,right,derecha,droite
+left,esquerda,left,izquierda,gauche
+climb,escalar,climb,trepar,monter
+interact,interagir,interact,interactuar,interagir
+hide,esconder,hide,esconder,cacher
+scratch,arranhar,scratch,rascar,gratter
+sleep,dormir,sleep,dormir,dormir
+tutorial_direita,"Controlas o gato ao escrever a historia dele. Tenta escrever 'direita'.","Control the cat by writing its story. Try typing 'right'.","En este juego controlas al gato escribiendo su historia, intenta escribir 'derecha'.","Dans ce jeu, vous controlez le chat en ecrivant son histoire, essayez de taper 'droite'."
+menu_language,Idioma,Language,Idioma,Langue
+settings,Definicoes,Settings,Definiciones,Definitions
+glossary,glossario,glossary,glosario,glossaire
+up,cima,up,arriba,en haut
+down,baixo,down,abajo,en bas
+awake,acorda,awake,desperta,reveiller
+meow,miau,meow,miau,miau
+pause,pausar,pause,pausa,pause
+music, Musica, Music, Musica, Musique
+sound, Sons, Sounds, Sonidos, Sons
+about,Sobre,About,Acerca,A Propos
+play,Jogar,Play,Jugar,Jouer
+quit,Sair,Quit,Salir,Quitter
+back,Voltar,Back,Volver,Retour
+unlocked_words_phrase,"Podes ver todas as palavras desbloqueadas pressionando Tab a qualquer momento.","You can see all your unlocked words by pressing Tab at any moment.","Puedes ver todas tus palabras desbloqueadas presionando Tab en cualquier momento.","Vous pouvez voir tous vos mots debloques en appuyant sur Tab a tout moment."
+resume,Continuar,Resume,Reanudar,Reprendre
+back_to_main_menu,Menu Principal,Main Menu,Menu Principal,Menu Principal
+paused,Pausado,Paused,Pausado,En Pause
+unlock_new_words,"Desbloqueia novas palavras ao coletar letras!","Unlock new words by collecting letters!","Desbloquea nuevas palabras al recolectar letras!","Debloquez de nouveaux mots en collectant des lettres!"
+sleep_story_phrase,"Olha as horas! Vou te contar uma historia para adormeceres.","Look at the time! I’ll tell you a story to help you sleep.","¡Mira la hora! Te voy a contar una historia para dormir.","Regarde l heure ! Je vais te raconter une histoire pour t endormir."
+confirm_main_menu_short_phrase,"Voltar ao menu principal?","Go back to the main menu?","¿Volver al menu principal?","Retourner au menu principal ?"
+yes,Sim,Yes,Sí,Oui
+no,Nao,No,No,Non
